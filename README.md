@@ -117,14 +117,11 @@ To use a custom dataset, you need to:
 If you find this benchmark or dataset useful in your research, please consider citing:
 
 ```bibtex
-@misc{liu2025representationcentricsurveyskeletalaction,
-      title={Representation-Centric Survey of Skeletal Action Recognition and the ANUBIS Benchmark}, 
+@article{liu2026PR,
+      title={Representation-Centric Survey of Supervised Skeletal Action Recognition and the New Benchmark}, 
       author={Yang Liu and Jiyao Yang and Madhawa Perera and Pan Ji and Dongwoo Kim and Min Xu and Tianyang Wang and Saeed Anwar and Tom Gedeon and Lei Wang and Zhenyue Qin},
-      year={2025},
-      eprint={2205.02071},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2205.02071}, 
+      journal={Pattern Recognition},
+      year={2026},
 }
 ```
 
