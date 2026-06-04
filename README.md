@@ -117,11 +117,15 @@ To use a custom dataset, you need to:
 If you find this benchmark or dataset useful in your research, please consider citing:
 
 ```bibtex
-@article{liu2026PR,
-      title={Representation-Centric Survey of Supervised Skeletal Action Recognition and the New Benchmark}, 
-      author={Yang Liu and Jiyao Yang and Madhawa Perera and Pan Ji and Dongwoo Kim and Min Xu and Tianyang Wang and Saeed Anwar and Tom Gedeon and Lei Wang and Zhenyue Qin},
-      journal={Pattern Recognition},
-      year={2026},
+@article{LIU2026114140,
+title = {Representation-centric survey of supervised skeletal action recognition and the new benchmark},
+journal = {Pattern Recognition},
+pages = {114140},
+year = {2026},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2026.114140},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320326011052},
+author = {Yang Liu and Jiyao Yang and Madhawa Perera and Pan Ji and Dongwoo Kim and Min Xu and Tianyang Wang and Saeed Anwar and Tom Gedeon and Lei Wang and Zhenyue Qin}
 }
 ```
 
